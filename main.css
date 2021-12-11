@@ -1,0 +1,25 @@
+
+h2 {
+    text-align: center; 
+    font-family: sysem-ui;
+}
+
+#p1 {
+    text-align: center; 
+    font-family: sysem-ui;
+    color:seagreen
+}
+
+#main-heading {
+    color: blueviolet; 
+    font-family: monospace; 
+    text-align: center;
+    font-size: 48px;
+}
+
+#head2 {
+    color:tomato; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
