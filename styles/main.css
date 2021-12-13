@@ -35,12 +35,42 @@ body {
     border-radius: 10%;
 }
 
-/* li  {
-    list-style: none;
+li  {
+    list-style: decimal;
     font-family: monospace;
-} */
+    text-align: left;
+
+}
 
 ol  {
     list-style: none;
     font-family: monospace;
+}
+a {
+    
+}
+
+h5 {
+    background-color: darkseagreen;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+
+}
+
+a:hover {
+    background-color: coral;
+}
+
+a {
+    background-color: dodgerblue;
+    border-radius: 5px;
+}
+
+a :focus {
+    background-color: seagreen;
+}
+
+a:active{
+    background-color: orchid;
 }
